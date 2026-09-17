@@ -1,7 +1,7 @@
 import random
 weapon = ['PAPER','ROCK','SCISSORS']
 
-num = random.choice(range(0, 2))
+num = random.choice(range(0, 3))
 
 while True:
     print("You have enter the paper rock scissors battle game")
